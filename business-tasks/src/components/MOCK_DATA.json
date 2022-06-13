@@ -1,0 +1,26 @@
+[
+    {
+        "id":21315,
+        "firstName":"Sami",
+        "permission":"EMPLOY"
+       
+    },
+    {
+        "id":54685,
+        "firstName":"Anan",
+         "permission":"EMPLOY"
+
+    },
+    {
+        "id":25635,
+        "firstName":"sahr",
+        "permission":"ADMIN"
+    },
+    {
+        "id":2137,
+        "firstName":"Hameed",
+        "permission":"EMPLOY"
+    }
+    
+
+]
